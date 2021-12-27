@@ -8,4 +8,6 @@ cd WIFI-password
 
 python3 wifipass.py
 
+or for linux
 
+python3 wifipasslinux.py
