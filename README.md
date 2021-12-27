@@ -6,8 +6,8 @@ git clone https://github.com/8055anbu/WIFI-password
 
 cd WIFI-password
 
-python3 wifipass.py
-
-or for linux
-
 python3 wifipasslinux.py
+
+or for windows
+
+python3 wifipass.py
